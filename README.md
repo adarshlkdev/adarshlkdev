@@ -203,7 +203,7 @@
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/codingstella?tab=repositories
+[repo]: https://github.com/adarshlkdev?tab=repositories
 
 <hr />
 
@@ -213,7 +213,7 @@
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
-![](https://img.shields.io/github/followers/codingstella?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![](https://img.shields.io/github/followers/adarshlkdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingstella&theme=onedark) -->
