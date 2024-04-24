@@ -1,57 +1,25 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" width="3000" />
 
-<br />
+![linkedin header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
 
-**I am a self-taught Full-stack web/mobile developer from India.**
-<br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
-<br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
-<!-- <br />**I have 5+ Years of experience in full-stack web-dev.**-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Open+source+%F0%9F%92%98)](https://git.io/typing-svg)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
-<br />
+<img align="right" alt="cheemsCoder" src = "https://user-images.githubusercontent.com/73928744/141654531-109887e4-1142-474e-ac70-8540f7a24f70.png"></p>
 
-## Fun Fact 🎈:
-
- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">
-
-• 🔭 I’m currently working on <b>something cool!</b> <br/>
-• 👯 I’m looking to collaborate on <b>cool project.</b><br/>
-• 💬 Ask me about <b>Full Stack Development</b>.<br/>
-• 📫 Reach me out <a href="https://www.linkedin.com/in/adarshlkdev"><b>@linkedin/adarshlkdev</b></a><br/>
-</span>
-
-<br />
-<br />
-
-<!-- ## 🏆 **GITHUB TROPHY**
-
-![](https://github-profile-trophy.vercel.app/?username=codingstella&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
-
-<a href="http://www.github.com/codingstella"><img src="https://activity-graph.herokuapp.com/graph?username=codingstella&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<br /> -->
-
-# 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshlkdev&show_icons=true&locale=en" alt="adarshlkdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshlkdev&" alt="adarshlkdev" /></p>
-
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshlkdev" alt="adarshlkdev" /></a> </p>
-
+- 🌱 I’m currently learning **Devops**
+- 👯 I’m looking to collaborate on **Web Dev Hackathons**
+- 🤝 I’m looking for help with **Backend & CI/CD Deplyment🛠**
+- 🥅 2024 Goals: Learn **Devops** in depth + Open Source
+- ⚡ Fun fact - I 💖 Workout
 
 ## 🌏 **CONNECT WITH ME**
 
- <a href="mailto:erlkadarsh@gmail.com"> 
+<a href="mailto:erlkadarsh@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a>
- <a href="https://www.github.com/adarshlkdev"> 
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a> 
- <a href="https://twitter.com/adarshlkdev"> 
+<a href="https://twitter.com/adarshlkdev"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a> 
-<a  href="https://www.linkedin.com/adarshlkdev">
+<a  href="https://www.linkedin.com/in/adarshlkdev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 <br />
@@ -70,22 +38,15 @@
 [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")][repo]
 [![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")][repo]
 [![Socket.io-client](https://img.shields.io/badge/Socket.io--client-black?style=for-the-badge&logo=socket.io&badgeColor=**010101** "Socket.io-client")][repo]
-
-<!-- [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)][repo] -->
-<!-- [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular")][repo] -->
-<!-- [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white "Styled-Components")][repo] -->
-<!-- [![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white "React Router")][repo] -->
-<!-- [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind")][repo] -->
-<!-- [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black "Webpack")][repo] -->
-<!-- [![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white "Three.js")][repo] -->
+[![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)][repo]
+[![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white "Styled-Components")][repo]
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind")][repo]
+ [![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white "Three.js")][repo]
 
 ## 📱 **MOBILE DEV**
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter")][repo]
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")][repo]
-
-<!-- [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")][repo] -->
-<!-- [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)][repo] -->
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")][repo] 
 
 ## 🍧 **DESIGN TOOLS**
 
@@ -95,7 +56,7 @@
 
 ## ⚙️ **BACKEND DEV**
 
-[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
+[![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
 [![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express js")][repo]
 [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101 "Socket.io")][repo]
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")][repo]
@@ -108,19 +69,15 @@
 ## 📅 **DATABASES**
 
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
-[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white "Redis")][repo]
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")][repo]
-[![SQLLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "SQLLite")][repo]
-
-<!-- [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white "Postgresql")][repo] -->
+[![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white "Postgresql")][repo]
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white "Dart")][repo]
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")][repo]
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white "C#")][repo]
-
-<!-- [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")][repo] -->
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")][repo] 
+[![Python](https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=pyhton&logoColor=white "Python")][repo]
 
 ## 🛠️ **DEVOPS TOOLS**
 
@@ -203,6 +160,7 @@
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
+
 [repo]: https://github.com/adarshlkdev?tab=repositories
 
 <hr />
@@ -216,4 +174,10 @@
 ![](https://img.shields.io/github/followers/adarshlkdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingstella&theme=onedark) -->
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshlkdev&theme=onedark) -->
+
+
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+
+<p align="center"> With ❤️ from India </p>
