@@ -22,6 +22,10 @@
 <a  href="https://www.linkedin.com/in/adarshlkdev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
+  <a href="https://adarshlkdev.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+  </a>
+
 <br />
 
 ## 🕸️ **WEB DEV**
@@ -162,6 +166,12 @@
 [sof]: https://stackoverflow.com/
 
 [repo]: https://github.com/adarshlkdev?tab=repositories
+
+<div align="center">
+  <img  src="https://github.com/eraydmrcoglu/eraydmrcoglu/blob/main/github-user-contribution.svg" alt="github contribution grid snake animation" />
+</div>
+
+
 
 <hr />
 
