@@ -183,6 +183,6 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshlkdev&theme=onedark) -->
 
 
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+![](https://github.com/adarshlkdev/adarshlkdev/blob/main/bottom_header.svg)
 
 <p align="center"> With ❤️ from India </p>
