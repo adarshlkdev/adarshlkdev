@@ -119,6 +119,10 @@ I believe in implementing the knowledge which you have. Projects play a signific
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshlkdev&theme=onedark) -->
 
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
 
 ![](https://github.com/adarshlkdev/adarshlkdev/blob/main/bottom_header.svg)
 
