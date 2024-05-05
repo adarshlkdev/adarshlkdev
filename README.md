@@ -1,7 +1,13 @@
 
 ![linkedin header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Open+source+%F0%9F%92%98)](https://git.io/typing-svg)
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Adarsh....;I'm+a+Full+Stack+Developer+🚀;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
 
 <img align="right" alt="cheemsCoder" src = "https://user-images.githubusercontent.com/73928744/141654531-109887e4-1142-474e-ac70-8540f7a24f70.png"></p>
 
