@@ -1,11 +1,9 @@
 
 ![linkedin header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
 
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Adarsh+L+K....;I'm+a+Full+Stack+Developer+🚀;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Adarsh+L+K....;I'm+a+Full+Stack+Developer;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
