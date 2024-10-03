@@ -124,6 +124,11 @@ I believe in implementing the knowledge which you have. Projects play a signific
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
+<!--<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=adarshlkdev&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshlkdev&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>-->
+
 
 ![](https://github.com/adarshlkdev/adarshlkdev/blob/main/bottom_header.svg)
 
