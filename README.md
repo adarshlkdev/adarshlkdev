@@ -110,6 +110,11 @@ I believe in implementing the knowledge which you have. Projects play a signific
 
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
+
+<br />
+
+[![An image of @adarshlkdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adarshlkdev)](https://holopin.io/@adarshlkdev)
+
 <br />
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
