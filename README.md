@@ -10,7 +10,6 @@
 <img align="right" alt="cheemsCoder" src = "https://user-images.githubusercontent.com/73928744/141654531-109887e4-1142-474e-ac70-8540f7a24f70.png"></p>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=adarshlkdev&label=Profile%20views&color=6805D3&style=flat" alt="Adarsh L K" /> </p></h3>
-   <div align="center">
 
 
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
@@ -57,8 +56,9 @@
      
 </p>
 
+<div align="center">
 
-I believe in implementing the knowledge which you have. Projects play a significant role in showcasing your skills. They help in predicting the skills of a person. 
+I am a Full Stack Developer who believes in the power of practical implementation. Projects are not just tasks for me; they are opportunities to showcase my skills and predict my abilities. Each line of code represents a step forward in mastering my craft.
 
 <br />
 
@@ -67,12 +67,11 @@ I believe in implementing the knowledge which you have. Projects play a signific
 <div align="center">
 
 <a  href="https://www.linkedin.com/in/adarshlkdev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/adarshlkdev" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a  href="https://adarshlkdev.tech" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 <a href="mailto:erlkadarsh@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a  href="https://t.me/adarshlkdev"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a  href="https://discord.com/users/adarshlkdev"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a  href="https://www.twitter.com/adarshkdev/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=Twiiter&logoColor=white"></a>
-<a  href="https://adarshlkdev.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 
 <br />
     
@@ -123,7 +122,7 @@ I believe in implementing the knowledge which you have. Projects play a signific
 
 
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshlkdev&theme=onedark) -->
+ <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshlkdev&theme=onedark) -->
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
