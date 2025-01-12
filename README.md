@@ -106,21 +106,6 @@ I am a Full Stack Developer who believes in the power of practical implementatio
 
 [repo]: https://github.com/adarshlkdev?tab=repositories
 
-<!--### 📊 GitHub Stats
-
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshlkdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshlkdev&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=adarshlkdev&theme=radical)
-
----
-
-### 🎯 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adarshlkdev&theme=radical&no-frame=true&row=1&column=7)
-
---->>
 
 
 <hr />
