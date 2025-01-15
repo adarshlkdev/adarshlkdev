@@ -125,7 +125,7 @@ I am a Full Stack Developer who believes in the power of practical implementatio
 
 
 
- <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshlkdev&theme=onedark) -->
+ 
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
