@@ -109,7 +109,7 @@ I am a Full Stack Developer who believes in the power of practical implementatio
 
 <hr />
 
-### **Thanks for checking out my GitHub Profile!** 🙏
+### **Thanks for checking out my GitHub Profile!**
 
 
 <br />
@@ -134,4 +134,4 @@ I am a Full Stack Developer who believes in the power of practical implementatio
 
 ![](https://github.com/adarshlkdev/adarshlkdev/blob/main/bottom_header.svg)
 
-<p align="center"> With ❤️ from India </p>
+<p align="center"> With ❤️ From India </p>
