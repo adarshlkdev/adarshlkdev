@@ -78,7 +78,7 @@ I am a Full Stack Developer who believes in the power of practical implementatio
 <br />
     
 
-## ☃️ **MY LEARNING RESOURCES**
+## 💸**MY LEARNING RESOURCES**
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][sof]
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
