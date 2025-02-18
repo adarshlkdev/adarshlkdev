@@ -121,7 +121,7 @@ I am a Full Stack Developer who believes in the power of practical implementatio
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshlkdev&theme=gotham" align="center" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshlkdev&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="100%" alt="activity graph">
-</p>-->
+</p>-- ---->
 
 
 ### **Thanks for checking out my GitHub Profile!**
