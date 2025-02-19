@@ -108,20 +108,6 @@ I am a Full Stack Developer who believes in the power of practical implementatio
 
 <hr />
 
-<!--# 📊 GitHub Stats & Contribution Graph
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshlkdev&show_icons=true&theme=gotham" alt="rudradcruze" style="width:100%;" />
-
-<div style="display: flex; flex-direction: row; align-items: center; margin-top: 2%">
-  <img src="https://github-contributor-stats.vercel.app/api?username=adarshlkdev&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="rudradcruze" style="width: 49%; height: 70%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshlkdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="rudradcruze" style="width: 49%; height: 100%;" />
-</div>
-
-<p align="center" style="margin-top: 2%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshlkdev&theme=gotham" align="center" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshlkdev&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="100%" alt="activity graph">
-</p>-- ---->
 
 
 ### **Thanks for checking out my GitHub Profile!**
