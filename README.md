@@ -12,12 +12,12 @@
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=adarshlkdev&label=Profile%20views&color=6805D3&style=flat" alt="Adarsh L K" /> </p></h3>
 
 
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
-- 🌱 Trying to become an expert in Fullstack development ❤
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).
+- 🌱 Trying to become an expert in Fullstack development 
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2025 Goals: Learn Web3 and Devops.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 
 
 <br />
