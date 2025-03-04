@@ -12,7 +12,7 @@
 
 
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps)
-- 🌱 Trying to become an expert in Fullstack development 
+- 🌱 Trying to become an expert in Fullstack development. 
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2025 Goals: Learn Web3 and Devops.
