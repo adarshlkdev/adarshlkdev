@@ -109,7 +109,7 @@ I am a Full Stack Developer who believes in the power of practical implementatio
 
 
 
-### **Thanks for checking out my GitHub Profile!**
+### **Thanks for checking out my GitHub Profile**
 
 
 <br />
