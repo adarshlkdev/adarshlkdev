@@ -8,7 +8,7 @@
 
 <img align="right" alt="cheemsCoder" src = "https://user-images.githubusercontent.com/73928744/141654531-109887e4-1142-474e-ac70-8540f7a24f70.png"></p>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=adarshlkdev&label=Profile%20views&color=6805D3&style=flat" alt="Adarsh L K" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=adarshlkdev&label=Profile%20views&color=6805D3&style=flat" alt="Adarsh" /> </p></h3>
 
 
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps)
